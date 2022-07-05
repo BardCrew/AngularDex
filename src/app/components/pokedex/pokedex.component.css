@@ -1,0 +1,13 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.container{
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+img {
+    height: 120px;
+}
